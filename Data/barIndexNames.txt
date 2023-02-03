@@ -1,0 +1,204 @@
+0. DEQ Terrace & Lounge
+1. Ronnie's Local 069
+2. Upper Deck By Fran's
+3. The Jersey Giant
+4. Prohibition Gastrohouse - Queen
+5. Nuit Social
+6. The Penalty Box
+7. Fabulous Bar & Cafe
+8. Ehwa J Bar
+9. The Mod Club
+10. Captain Jack
+11. Nest
+12. Burgs
+13. Legends Sports Lounge
+14. Kilt and Harp
+15. Falcon SkyBar
+16. Shisha&Co
+17. The Beaver
+18. Rex's
+19. St. Louis Bar & Grill
+20. Elephant & Castle
+21. Firkin on Bay Street
+22. AAA Bar
+23. Soco Kitchen and Bar
+24. Bryden's
+25. Boutique Bar
+26. Camp 4
+27. Cider House
+28. Kensington Brewing Company
+29. Madam Boeuf And Flea
+30. Apt. 200
+31. Mrs. Robinson
+32. Reyna
+33. Halo Brewery
+34. The Strath Pub
+35. Early Mercy
+36. Superfly
+37. The Fortunate Fox
+38. Decó
+39. Wingporium
+40. Bar Hop
+41. Grossman's Tavern
+42. Gabby's on The Danforth
+43. MacKenzies High Park
+44. Walrus Pub & Beer Hall
+45. Einstein Cafe & Pub
+46. Wheat Sheaf Tavern
+47. Firkin on Harbour
+48. The Porch Toronto
+49. Rod, Gun & Barbers
+50. The Grover Pub
+51. Bistro 422 Bar & Grill
+52. Ufficio
+53. American Airlines Admirals Club
+54. Boo Radley's Junction Bar and Grill
+55. Cherry Cola's Rock N' Rolla Cabaret Lounge
+56. Civil Liberties
+57. LoPan
+58. Pretty Ugly
+59. Cabin Five
+60. Famous Last Words
+61. Pennies
+62. Come See Me
+63. VIP Pool & Bar
+64. The Social Capital
+65. Communist's Daughter
+66. Firkin on the Bay
+67. Local Lakeside Patio
+68. Irish Embassy Pub & Grill
+69. Oretta
+70. Tori's Bakeshop
+71. Paris Paris
+72. Porter Airport Lounge
+73. Koyoi Restaurant & Bar
+74. The Churchmouse: A Firkin Pub
+75. The Red Light
+76. Duke of Richmond
+77. The Jason George
+78. 2 Cats
+79. Koricancha Restaurant
+80. Bloc Twenty Two
+81. Bar Poet
+82. Mother Tongue
+83. Nomé Izakaya
+84. Murphy's Law Pub and Kitchen
+85. Library Bar
+86. Cibo Wine Bar
+87. Labyrinth Lounge
+88. The Keg Steakhouse & Bar
+89. Super Point
+90. Japas
+91. The Pickle Barrel
+92. Pharmacy Bar
+93. The Local
+94. Hemingway's Restaurant
+95. The Wickson Social
+96. Scotland Yard
+97. Brass Taps Pizza Pub
+98. Kost
+99. Locals Only
+100. KoSam
+101. TGI Friday's
+102. Rockpile-West
+103. Jasper Dandy
+104. AllStar Wings & Ribs
+105. Three Speed
+106. The Everleigh
+107. 7 West Cafe
+108. The Irish Shebeen
+109. Crocodile Rock
+110. The Right Wing Sport Pub
+111. The Uptown Pubhouse
+112. Tundra
+113. Kilgour's Bar Meets Grill
+114. Death & Taxes Free House
+115. The Korner Pub
+116. Amsterdam Bicycle Club
+117. Henrietta Lane Cafe & Drinkery
+118. Penny's
+119. Remarks Bar & Grill
+120. Junction Craft Brewing
+121. The Bond Pub
+122. The Gaarden
+123. Club Paradise
+124. Restaurant Chantecler
+125. Jack Astor's Bar & Grill
+126. The Miller Tavern
+127. Foggy Dew Irish Pub
+128. Against the Grain
+129. Thirsty & Miserable
+130. Dog & Bear Pub
+131. Caribu West Indian Cuisine
+132. Good Fortune Bar
+133. The Cloak Bar
+134. Echo Karaoke and Bar
+135. Watson's
+136. Escape Goat
+137. Jingles II
+138. Jenni Place
+139. Baby Huey
+140. VSOP KTV
+141. El Pocho Antojitos Bar
+142. 1602
+143. Boxcar Social
+144. Hoops Sports Bar & Grill
+145. Pogue Mahone Pub & Kitchen
+146. The Swan A Firkin Pub
+147. The Fill Station & Sports Bar
+148. The Garrison
+149. Pour Boy
+150. The Rhino
+151. The Kingston Social House
+152. P.J. O'Brien Irish Pub and Restaurant
+153. The Squire: A Firkin Pub
+154. 70 Down
+155. Urban House
+156. Loaded Pierogi
+157. Goldie
+158. Archive
+159. Molson Pub
+160. Sakai Bar
+161. Cloak & Dagger Irish Pub
+162. Wide Open
+163. Midfield
+164. Biff's Bistro
+165. Archeo
+166. Imperial Pub
+167. Cake Bar & Nightclub
+168. Wish
+169. Dora Keogh Irish Pub
+170. The Galway Arms
+171. Hurricanes Roadhouse Restaurant
+172. Fox on John
+173. Crews & Tangos
+174. Godspeed Brewery
+175. Locus 144
+176. Sapori
+177. Duffy's Tavern
+178. Hotmess Tex Mex
+179. The Six Brewhouse
+180. Kornerstones
+181. Motel Bar
+182. Alfies Bar & Grill
+183. Cass Avenue
+184. Scaramouche Restaurant Pasta Bar & Grill
+185. Proof The Vodka Bar
+186. The House On Parliament
+187. Hair of the Dog
+188. dbar
+189. Hotel Gelato
+190. The Embassy Bar
+191. EFS
+192. Black Dice Cafe
+193. Duke of York
+194. Big Trouble
+195. The Fox and Firkin
+196. Table 21 Kitchen & Wine Bar
+197. Open House
+198. Pick 6ix Sports
+199. Chiang Mai
+200. Two Dogs Sports Bar
+201. Zed 80
+202. Pasha Shisha Lounge
+203. Yard Sale Bar
